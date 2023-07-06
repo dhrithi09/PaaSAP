@@ -52,7 +52,7 @@ const html = `
       body {
         background: white;
       }
-      section {
+      form {
         border-radius: 1em;
         padding: 1em;
         position: absolute;
